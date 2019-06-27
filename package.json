@@ -1,27 +1,27 @@
 {
-  "name": "use-tabs",
-  "version": "1.0.0",
-  "description": "Convert spaces to tabs",
-  "files": [
-    "*.js"
-  ],
-  "keywords": [
-    "spaces",
-    "tabs",
-    "indent",
-    "indentation",
-    "reindent",
-    "redent"
-  ],
-  "author": "Alec Larson",
-  "license": "MIT",
-  "dependencies": {
-    "detect-indent": "^6.0.0",
-    "kleur": "^3.0.3",
-    "recrawl": "^1.2.2",
-    "sade": "^1.6.0"
-  },
-  "devDependencies": {
-    "prettier": "^1.18.2"
-  }
+	"name": "use-tabs",
+	"version": "1.0.0",
+	"description": "Convert spaces to tabs",
+	"files": [
+		"*.js"
+	],
+	"keywords": [
+		"spaces",
+		"tabs",
+		"indent",
+		"indentation",
+		"reindent",
+		"redent"
+	],
+	"author": "Alec Larson",
+	"license": "MIT",
+	"dependencies": {
+		"detect-indent": "^6.0.0",
+		"kleur": "^3.0.3",
+		"recrawl": "^1.2.2",
+		"sade": "^1.6.0"
+	},
+	"devDependencies": {
+		"prettier": "^1.18.2"
+	}
 }
